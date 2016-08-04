@@ -1,0 +1,40 @@
+_repo: Washington-and-His-Comrades-in-Arms--A-Chronicle-of-the-War-of-Independence_2704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wrong, George McKinnon
+    alias: Wrong, George M. (George McKinnon)
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '1002'
+    url: http://www.gutenberg.org/2009/agents/1002
+    wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+edition_note: Abraham Lincoln Edition
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2704'
+language: en
+publication_note: 'Toronto : [ s.n.],  1920'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 12
+subjects:
+- !lcsh 'Washington, George, 1732-1799 -- Military leadership'
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcc 'E201'
+- GITenberg
+title: 'Washington and His Comrades in Arms: A Chronicle of the War of Independence'
+url: http://www.gutenberg.org/ebooks/2704
